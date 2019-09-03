@@ -2,7 +2,7 @@ backend:
   name: github
   repo: jamesshedden/netlify-cms-test
   branch: master
-  site_domain: Settings for compassionate-clarke-760cf9.netlify.com
+  site_domain: compassionate-clarke-760cf9.netlify.com
 
 media_folder: "images/uploads"
 
